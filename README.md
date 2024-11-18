@@ -4,13 +4,14 @@
 
     ```bash
     pip install sentence-transformers faiss-cpu matplotlib torch torchaudio librosa fuzzywuzzy
+    ```
 
-    `sentence-transformers`: For text embedding using pre-trained models.
-    `faiss-cpu`: For efficient similarity search.
-    `matplotlib`: For visualization of data.
-    `torch and torch.audio`: For deep learning tasks.
-    `librosa`: For audio feature extraction.
-    `fuzzywuzzy`: For fuzzy string matching.
+    - `sentence-transformers`: For text embedding using pre-trained models.
+    - `faiss-cpu`: For efficient similarity search.
+    - `matplotlib`: For visualization of data.
+    - `torch and torch.audio`: For deep learning tasks.
+    - `librosa`: For audio feature extraction.
+    - `fuzzywuzzy`: For fuzzy string matching.
 
 2. **Training Model**
 Run the code for Training the speech model. 
